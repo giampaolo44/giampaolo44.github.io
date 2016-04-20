@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Comandi Git da terminale"
+date:   2016-04-20 11:44:00 +0200
+categories: test
+---
 # Comandi Git da terminale
 
 ## Modifica a mano di alcune cose e seguente push su github
