@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Giampaolo44 is Giampaolo Ferradini
+You may find here things that come from several different spaces explored, including but not limited to:
+* Entrepreneurship & startups (after all I am a startupper: [KJuicer][tag-KJ])
+* Finance & startups (being an ex-banker gives me an interesting vantage point on the subject, and I often act as an advisor)
+* Spirituality (apparently the above did not stop me from being a mystic)
+* Politics & activism (watch and sometimes act)
+* Programming (ehm... let's say that I might take notes on how I get along with handling this website, ok?)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[tag-KJ]: http://kjuicer.com
